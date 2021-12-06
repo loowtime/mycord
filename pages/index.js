@@ -27,7 +27,7 @@ export default function Auth() {
     
     <div className="background">
       <div className='auth-container'>
-        <title>MyCord</title>
+        <title>MyCord - Auth</title>
           <form className="auth-form" onSubmit={(e) => onSubmit(e)}>
             <div className='auth-title'>MyCord</div>
 

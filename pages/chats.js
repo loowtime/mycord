@@ -31,6 +31,7 @@ export default function Chats() {
 
   return (
     <div className="background">
+      <title>MyCord - Chats</title>
       <div className='shadow'>
         <ChatEngine
           height='calc(100vh - 200px)'
