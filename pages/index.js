@@ -27,7 +27,7 @@ export default function Auth() {
     <div className="background">
       <div className='auth-container'>
           <form className="auth-form" onSubmit={(e) => onSubmit(e)}>
-            <div className='auth-title'>MyCord Chatsystem</div>
+            <div className='auth-title'>Poolen Chat für 11 Jährige</div>
 
             <div className='input-container'>
               <input
