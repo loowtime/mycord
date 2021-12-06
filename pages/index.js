@@ -24,10 +24,12 @@ export default function Auth() {
     .then(r => router.push('/chats'))
   }
   return (
+    
     <div className="background">
       <div className='auth-container'>
+        <title>MyCord</title>
           <form className="auth-form" onSubmit={(e) => onSubmit(e)}>
-            <div className='auth-title'>MyCord - Krause</div>
+            <div className='auth-title'>MyCord</div>
 
             <div className='input-container'>
               <input
