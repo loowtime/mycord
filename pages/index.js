@@ -52,7 +52,7 @@ export default function Auth() {
             type='submit'
             className='submit-button'
             >
-              Login / Sign Up
+              Login or Sign Up
             </button>
           </form>
       </div>
